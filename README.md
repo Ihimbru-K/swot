@@ -33,7 +33,7 @@ The first line of the file has to contain the official name of the educational o
 Other lines can contain other names the university is known by. A university in a non-English speaking country can have a line containing the university name in their native language, and another line with the name in English.
 
 4. If the domain is shared by several institutions, such a school district domain, please add the last line starting with a dot (`.`) followed by the word "group". Example:
-`.group`
+`.group`.
 
 #### How to add the domain quicker
 > We merge pull requests manually and check the information which you have provided us with before merging it.
